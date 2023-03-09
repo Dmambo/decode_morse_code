@@ -32,7 +32,6 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-
 # 📖 [Decode Morse code] <a name="about-project"></a>
 
 **Decode Morse code** is a tutorial on how to create a functionalities in ruby
@@ -82,24 +81,24 @@ To get a local copy up and running, follow these steps.
 
 2. [Node and npm](https://nodejs.org/en/download/) are installed. Here are the versions I'll be using while making this tutorial:
 
-    ```shell
-    $ node --version
-    v16.13.2
+   ```shell
+   $ node --version
+   v16.13.2
 
-    $ npm --version
-    8.1.2
-    ```
-    > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
+   $ npm --version
+   8.1.2
+   ```
+
+   > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
 
 3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed. Here's the version I'll be using while making this tutorial:
 
-    ```shell
-    $ git --version
-    git version 2.29.1.windows.1
-    ```
+   ```shell
+   $ git --version
+   git version 2.29.1.windows.1
+   ```
 
 4. A [GitHub](https://github.com/signup) account. :octocat:
-
 
 ### Setup
 
@@ -113,9 +112,6 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- AUTHORS -->
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -127,6 +123,7 @@ Clone this repository to your desired folder:
 - LinkedIn: [Dmambo](https://linkedin.com/in/Dmambo)
 
 👤 **Author2**
+
 - GitHub: [@Fahim-Khan-P](https://github.com/Fahim-Khan-P/)
 - LinkedIn: [Fahim Khan](https://www.linkedin.com/in/fahimkhan-p/)
 
@@ -134,7 +131,7 @@ Clone this repository to your desired folder:
 
 <!-- FUTURE FEATURES -->
 
-<!-- FUTURE FEATURES -->
+Ability to decode larger morse codes
 
 ## 🔭 Future Features <a name="future-features"></a>
 
